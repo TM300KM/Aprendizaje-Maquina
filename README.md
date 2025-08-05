@@ -1,1 +1,2 @@
-# Aprendizaje-Maquina
+Predicción del Riesgo de Enfermedades del Corazón
+Este proyecto aplica Machine Learning para predecir el riesgo de enfermedades del corazón utilizando un conjunto de datos clínicos. Se ha construido un pipeline completo con preprocesamiento, entrenamiento y evaluación, exportando el modelo final en un archivo .pkl listo para producción.
